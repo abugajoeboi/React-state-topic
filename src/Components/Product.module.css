@@ -1,0 +1,19 @@
+  /* PRODUTLIST */
+
+  /* style when flag is true */
+  .paraTrue{
+    color: green;
+    font-size: 2rem;
+    text-align: center;
+  }
+
+
+
+
+
+  /* style when flag is false */
+  .paraFalse{
+    color: red;
+    font-size: 2rem;
+    text-align: center;
+  }

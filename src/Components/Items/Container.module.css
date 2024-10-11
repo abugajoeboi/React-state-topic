@@ -1,0 +1,42 @@
+.header{
+    color: blue;
+    font-size: 50px;
+}
+
+
+/* Styles for PriceList component when flag is true */
+.priceListTrue {
+    background-color: lightblue;
+    padding: 20px;
+    border: 2px solid blue;
+    border-radius: 10px;
+  }
+  
+  /* Styles for PriceList component when flag is false */
+  .priceListFalse {
+    background-color: lightcoral;
+    padding: 20px;
+    border: 2px solid red;
+    border-radius: 10px;
+  }
+  
+  /* Styles for Button when flag is true */
+  .buttonTrue {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Styles for Button when flag is false */
+  .buttonFalse {
+    background-color: darkred;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
